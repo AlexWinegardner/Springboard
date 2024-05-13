@@ -1,0 +1,37 @@
+Make,Model,Type,MSRP,EV_Tax_Credit,Purchase_Price,Range_(mi),0-60mph,Range/Price,0-60mph*Price,Bang/Buck_Score
+Tesla,Model 3 Base,Sedan,"$38,990 ",$0 ,"$38,990 ",272,5.8,6.98,2.26,4.71
+Tesla,Model 3 Long Range,Sedan,"$47,740 ",$0 ,"$47,740 ",341,4.2,7.14,2.01,5.14
+Tesla,Model 3 Performance,Sedan,"$53,990 ","$7,500 ","$46,490 ",296,2.9,6.37,1.35,5.02
+Tesla,Model Y RWD,Crossover SUV,"$44,990 ","$7,500 ","$37,490 ",320,6.5,8.54,2.44,6.10
+Tesla,Model Y AWD,Crossover SUV,"$47,990 ","$7,500 ","$40,490 ",310,4.8,7.66,1.94,5.71
+Tesla,Model Y Performance,Crossover SUV,"$51,490 ","$7,500 ","$43,990 ",279,3.5,6.34,1.54,4.80
+Tesla,Model S AWD,Luxury Sedan,"$72,990 ",$0 ,"$72,990 ",402,3.1,5.51,2.26,3.24
+Tesla,Model S Plaid,Luxury Sedan,"$87,990 ",$0 ,"$87,990 ",359,2.0,4.08,1.75,2.33
+Tesla,Model X AWD,Luxury SUV,"$77,990 ","$7,500 ","$70,490 ",335,3.8,4.75,2.68,2.07
+Tesla,Model X Plaid,Luxury SUV,"$92,990 ",$0 ,"$92,990 ",326,2.5,3.51,2.32,1.18
+Nissan,Ariya Engage,Crossover SUV,"$43,190 ",$0 ,"$43,190 ",216,7.1,5.00,3.07,1.93
+Nissan,Ariya Engage e-4ORCE,Crossover SUV,"$47,190 ",$0 ,"$47,190 ",205,5.1,4.34,2.41,1.94
+Nissan,Ariya Venture+,Crossover SUV,"$47,190 ",$0 ,"$47,190 ",304,7.2,6.44,3.40,3.04
+Nissan,Ariya Engage+ e-4ORCE,Crossover SUV,"$51,190 ",$0 ,"$51,190 ",272,4.8,5.31,2.46,2.86
+Nissan,Ariya Empower+,Crossover SUV,"$53,690 ",$0 ,"$53,690 ",289,7.2,5.38,3.87,1.52
+Nissan,Ariya Evolve+ e-4ORCE,Crossover SUV,"$54,190 ",$0 ,"$54,190 ",272,4.8,5.02,2.60,2.42
+Nissan,Ariya Platinum+ e-4ORCE,Crossover SUV,"$60,190 ",$0 ,"$60,190 ",267,4.8,4.44,2.89,1.55
+Nissan,Leaf S,Hatchback,"$28,140 ","$3,750 ","$24,390 ",149,7.5,6.11,1.83,4.28
+Nissan,Leaf SV Plus,Hatchback,"$36,040 ","$3,750 ","$32,290 ",212,6.7,6.57,2.16,4.40
+Chevrolet,Equinox 2LT eAWD,Crossover SUV,"$45,200 ","$7,500 ","$37,700 ",285,5.9,7.56,2.22,5.34
+Chevrolet,Blazer RS eAWD,Crossover SUV,"$53,200 ","$7,500 ","$45,700 ",279,6.0,6.11,2.74,3.36
+Ford,Mustang Mach-E Base,Crossover SUV,"$39,995 ",$0 ,"$39,995 ",250,5.6,6.25,2.24,4.01
+Ford,Mustang Mach-E GT,Crossover SUV,"$53,995 ",$0 ,"$53,995 ",280,3.8,5.19,2.05,3.13
+Ford,Mustang Mach-E Rally,Crossover SUV,"$59,995 ",$0 ,"$59,995 ",265,3.4,4.42,2.04,2.38
+BMW,i4 eDrive35,Sedan,"$52,200 ",$0 ,"$52,200 ",276,5.8,5.29,3.03,2.26
+BMW,i4 eDrive40,Sedan,"$57,300 ",$0 ,"$57,300 ",301,5.4,5.25,3.09,2.16
+BMW,i4 xDrive40,Sedan,"$61,600 ",$0 ,"$61,600 ",307,4.9,4.98,3.02,1.97
+BMW,i4 M50,Sedan,"$69,700 ",$0 ,"$69,700 ",269,3.7,3.86,2.58,1.28
+BMW,i5 eDrive40,Luxury Sedan,"$66,800 ",$0 ,"$66,800 ",295,5.7,4.42,3.81,0.61
+BMW,i5 xDrive40,Luxury Sedan,"$70,100 ",$0 ,"$70,100 ",266,5.2,3.79,3.65,0.15
+BMW,i5 M60,Luxury Sedan,"$84,100 ",$0 ,"$84,100 ",256,3.7,3.04,3.11,-0.07
+BMW,iX xDrive50,Luxury SUV,"$87,250 ",$0 ,"$87,250 ",309,4.4,3.54,3.84,-0.30
+BMW,iX M60,Luxury SUV,"$111,500 ",$0 ,"$111,500 ",285,3.6,2.56,4.01,-1.46
+BMW,i7 eDrive 50,Ultra-Luxury Sedan,"$105,700 ",$0 ,"$105,700 ",321,5.3,3.04,5.60,-2.57
+BMW,i7 eDrive 60,Ultra-Luxury Sedan,"$124,200 ",$0 ,"$124,200 ",317,4.5,2.55,5.59,-3.04
+BMW,i7 M70,Ultra-Luxury Sedan,"$168,500 ",$0 ,"$168,500 ",291,3.5,1.73,5.90,-4.17
