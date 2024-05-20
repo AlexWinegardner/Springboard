@@ -1,0 +1,37 @@
+Make,Model,Type,MSRP,Range_(mi),0-60mph
+Tesla,Model 3 Base,Sedan,"$38,990 ",272,5.8
+Tesla,Model 3 Long Range,Sedan,"$47,740 ",341,4.2
+Tesla,Model 3 Performance,Sedan,"$53,990 ",296,2.9
+Tesla,Model Y RWD,Crossover SUV,"$44,990 ",320,6.5
+Tesla,Model Y AWD,Crossover SUV,"$47,990 ",310,4.8
+Tesla,Model Y Performance,Crossover SUV,"$51,490 ",279,3.5
+Tesla,Model S AWD,Luxury Sedan,"$72,990 ",402,3.1
+Tesla,Model S Plaid,Luxury Sedan,"$87,990 ",359,2.0
+Tesla,Model X AWD,Luxury SUV,"$77,990 ",335,3.8
+Tesla,Model X Plaid,Luxury SUV,"$92,990 ",326,2.5
+Nissan,Ariya Engage,Crossover SUV,"$43,190 ",216,7.1
+Nissan,Ariya Engage e-4ORCE,Crossover SUV,"$47,190 ",205,5.1
+Nissan,Ariya Venture+,Crossover SUV,"$47,190 ",304,7.2
+Nissan,Ariya Engage+ e-4ORCE,Crossover SUV,"$51,190 ",272,4.8
+Nissan,Ariya Empower+,Crossover SUV,"$53,690 ",289,7.2
+Nissan,Ariya Evolve+ e-4ORCE,Crossover SUV,"$54,190 ",272,4.8
+Nissan,Ariya Platinum+ e-4ORCE,Crossover SUV,"$60,190 ",267,4.8
+Nissan,Leaf S,Hatchback,"$28,140 ",149,7.5
+Nissan,Leaf SV Plus,Hatchback,"$36,040 ",212,6.7
+Chevrolet,Equinox 2LT eAWD,Crossover SUV,"$45,200 ",285,5.9
+Chevrolet,Blazer RS eAWD,Crossover SUV,"$53,200 ",279,6.0
+Ford,Mustang Mach-E Base,Crossover SUV,"$39,995 ",250,5.6
+Ford,Mustang Mach-E GT,Crossover SUV,"$53,995 ",280,3.8
+Ford,Mustang Mach-E Rally,Crossover SUV,"$59,995 ",265,3.4
+BMW,i4 eDrive35,Sedan,"$52,200 ",276,5.8
+BMW,i4 eDrive40,Sedan,"$57,300 ",301,5.4
+BMW,i4 xDrive40,Sedan,"$61,600 ",307,4.9
+BMW,i4 M50,Sedan,"$69,700 ",269,3.7
+BMW,i5 eDrive40,Luxury Sedan,"$66,800 ",295,5.7
+BMW,i5 xDrive40,Luxury Sedan,"$70,100 ",266,5.2
+BMW,i5 M60,Luxury Sedan,"$84,100 ",256,3.7
+BMW,iX xDrive50,Luxury SUV,"$87,250 ",309,4.4
+BMW,iX M60,Luxury SUV,"$111,500 ",285,3.6
+BMW,i7 eDrive 50,Ultra-Luxury Sedan,"$105,700 ",321,5.3
+BMW,i7 eDrive 60,Ultra-Luxury Sedan,"$124,200 ",317,4.5
+BMW,i7 M70,Ultra-Luxury Sedan,"$168,500 ",291,3.5
